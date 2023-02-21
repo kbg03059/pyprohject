@@ -1,0 +1,5 @@
+string = "hello"
+
+string.upper()
+print("A point:", string)
+print("B point:", string.upper())
